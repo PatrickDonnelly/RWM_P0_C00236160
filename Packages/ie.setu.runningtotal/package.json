@@ -1,6 +1,6 @@
 {
     "name" : "ie.setu.runningtotal",
-    "version" : "0.1.0",
+    "version" : "0.1.1",
     "displayName" : "RunningTotal",
     "description" : "A filter that adds a sequence of numbers together one at a time",
     "unity" : "2021.3"
